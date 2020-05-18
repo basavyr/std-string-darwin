@@ -1,0 +1,2 @@
+add_executable(test_string main_string.cc)
+target_link_libraries(test_string LINK_PUBLIC printer)
