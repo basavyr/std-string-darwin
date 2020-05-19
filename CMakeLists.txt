@@ -4,10 +4,13 @@ set(CMAKE_CXX_STANDARD 14)
 set(CXX_STANDARD_REQUIRED TRUE)
 
 #set the default compiler
+# set(CMAKE_C_COMPILER "/usr/bin/clang")
 # set(CMAKE_CXX_COMPILER "/usr/bin/clang++")
 
 # the xcode-provided clang++
+set(CMAKE_C_COMPILER "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang")
 set(CMAKE_CXX_COMPILER "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++")
+include_directories("/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/")
 
 project(STD::STRING::DARWIN)
 
