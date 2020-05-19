@@ -21,7 +21,7 @@ Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
 ```
 
-![](2020-05-18-19-58-47.png)
+![](/.images/2020-05-18-19-58-47.png)
 
 ## Locations for `string.h` file - `XCODE`
 
@@ -36,24 +36,24 @@ Platform tools:
 
 * `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform`
 
-![](2020-05-18-20-19-26.png)
+![](/.images//.images/2020-05-18-20-19-26.png)
 
-![](2020-05-18-20-20-22.png)
+![](/.images/2020-05-18-20-20-22.png)
 
 SDK include directory
 
 * `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/string.h`
 
-![](2020-05-18-20-24-29.png)
+![](/.images/2020-05-18-20-24-29.png)
 
 
 ## Locations for `string.h` file - `CommandLineTools`
 
-![](2020-05-18-20-28-40.png)
+![](/.images/2020-05-18-20-28-40.png)
 
 * `/Library/Developer/CommandLineTools/usr/include/c++/v1`
 
-![](2020-05-18-20-34-08.png)
+![](/.images/2020-05-18-20-34-08.png)
 
 * `/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include`
 

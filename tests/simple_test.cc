@@ -2,6 +2,6 @@
 
 int main()
 {
-    // auto x = printer::Printer();
+    auto x = printer::Printer();
 
 }
