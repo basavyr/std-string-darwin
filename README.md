@@ -1,4 +1,5 @@
 # `std::string` Darwin [clang]
+
 Testing the `std::string` library on macOS 10.15 - Catalina
 
 Compilation with `CLANG++` required for testing purposes within the latest macOS version.
@@ -61,3 +62,6 @@ SDK include directory
 
 * clang - [symlink to `/usr/bin/`] `/Library/Developer/CommandLineTools/usr/bin`
 * clang - [symlink to `/usr/bin`] `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin`
+
+
+> Command Line Tools are deleted from the machine. Only XCode's compilers provide support for `C` and ` C++`
